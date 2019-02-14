@@ -69,3 +69,22 @@
     opacity: 1;
   }
 }
+
+.card-tags {
+  position: absolute;
+  width: 80%;
+  padding: 8px;
+
+  span {
+    background: $blue;
+    font-size: .7em;
+    padding: 2px 4px;
+    border-radius: 3px;
+  }
+
+  a {
+    color: white;
+  }
+}
+
+
